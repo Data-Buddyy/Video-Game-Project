@@ -1,7 +1,7 @@
 
 # Video Game Analysis   
 
-A brief description of what this project does and who it's for
+The analysis is a private project just to analyse available data.
 
 ## Project Overview
 Video Game Sales
